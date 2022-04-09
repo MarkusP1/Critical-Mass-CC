@@ -14,12 +14,20 @@
   EcoMaps was developed during CalgaryHacks2022 as part of a 24hr coding challenge that took place in late February. It was built using React and used Google and Bing APIs for geocoding and distance/route data. 
   
   My primary role in this project was on reasearch into emissions data as well as initial design ideas and implementation of the scores and donut graphs.
-  The data was primarly from readily available emissions and fuel consumption data from Natural Resources Canada which was then broken down into three main vehicle types. I also used ridership data from the City of Calgary to understand emissions/person. 
+  The data was primarly from readily available emissions and fuel consumption data from Natural Resources Canada which was then broken down into three main vehicle types. I also used ridership data from the City of Calgary to understand emissions/person during transit. 
  
  I then used the data to calculate the "EcoScore" which was our way of displaying which method of transportation was the most sustainable and realistic. (ie, walking to Vancouver is most sustainable but not feasable!).
   This score was then dispalyed on the donut graphs which I thought allowed for easy visual comparison especially with the color indication.
   
   ### Project 3: [Bandwagon](https://github.com/MarkusP1/Bandwagon)
+  Bandwagon is a multi-user, web-based application built as a team of three using a React front-end and a SQLite database with a .NET backend API. Users can create accounts and vote on NBA games to pick up points and badges as well as redeem points for items in the store.
+  
+  My role in this project was primarily on the front-end development of multiple pages as well as the development of our prediction algorithm and database population.
+  For page design, I was specifically focused on the games, badges and profile pages which were initally designed on paper. For the games page I took inspiration from [fivethirtyeight](https://fivethirtyeight.com/) to create clean and visually appealing components. 
+  
+  The prediction algorithm was created using an an amalgamation of pre-existing techniques alongside trial and error and some basic learning/comparison in python.
+  
+  Lastly, I was involved in populating our database with as much NBA stats and data that was readily available. This was done through some statistics APIs available online as well as a very minor amount of manual entry.
 
 
 ## Inspiration
