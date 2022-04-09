@@ -2,8 +2,16 @@
 
 ## Work and Project Examples
   ### Project 1: [Undercover: Jimmy Bond](https://drive.google.com/drive/folders/1rKIa_9TUR32OVxwM6uH_3rgQRAr7WhP1?usp=sharing)
-  text lorem ipu
+  We developed this immersive 3D stealth-shooter game as a team of two for the Applied AI in Games course taken in the Fall 2021 semester. The project was built in Unreal Engine (UE) using Blueprints and C++ and well as Photoshop, Blender and some additional visual libraries. The workload was shared equally where my focus was primarily on the development of the AI systems involved as well as some level design and flow. 
+  
+  I implemented two systems, the first being a pathfinding AI with obstacle avoidance and the second a proximity/line-of-sight detection algorithm. The pathfinding alogrithm was a tweaked version of grid-based A* that was designed from the ground-up without the use of pre-existing UE functions. This was applied to all the NPCs in the game to provide realism to the gameplay.
+  
+  The sight-detection algorithm was also applied to the NPCs and was built using the field-of-view and distance vectors available. The idea here was to allow NPC civilians to "see" when you had a weapon out, and cause you to lose if you remained in their view for a given peroid of time that was distance dependent (closer = faster).
+  
+  I also had a shared role in the creation of the levels visually, including the themes and construction of the levels themselves. Additionally, I contributed to minor gameplay components such as sounds and custom voice-lines which were done in multiple languages.
+  
   ### Project 2: [EcoMaps](https://github.com/MarkusP1/CalgaryHacks2022)
+  EcoMaps was developed during CalgaryHacks2022 as part of a 24hr coding challenge that took place in late February. It was built using React and used Google and Bing APIs for geocoding and distance/route data. 
   
   ### Project 3: [Bandwagon](https://github.com/MarkusP1/Bandwagon)
 
