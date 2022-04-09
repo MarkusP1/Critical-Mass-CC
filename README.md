@@ -15,7 +15,8 @@
   
   My primary role in this project was on reasearch into emissions data as well as initial design ideas and implementation of the scores and donut graphs.
   The data was primarly from readily available emissions and fuel consumption data from Natural Resources Canada which was then broken down into three main vehicle types. I also used ridership data from the City of Calgary to understand emissions/person. 
-  I then used the data to calculate the "EcoScore" which was our way of displaying which method of transportation was the most sustainable and realistic. (ie, walking to Vancouver is most sustainable but not feasable!).
+ 
+ I then used the data to calculate the "EcoScore" which was our way of displaying which method of transportation was the most sustainable and realistic. (ie, walking to Vancouver is most sustainable but not feasable!).
   This score was then dispalyed on the donut graphs which I thought allowed for easy visual comparison especially with the color indication.
   
   ses readily available emissions and fuel consumption data from Natural Resources Canada to create accurate ratings based on vehicle type. For simplicity, we've proken down the vehicles into three main catagories: cars, SUVs and trucks
