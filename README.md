@@ -41,7 +41,9 @@ I've picked these three recent examples as they have all inspired me in differen
  On top of the design aspect, the APIs she has used and the sheer number of high-quality projects has inspired me to develop more creative and unique personal projects myself.
   ### ML Avalanche Forecasting [Repository](https://github.com/SBeairsto/Avalanche_project) and [App](https://avalanche.shinyapps.io/seatosky/?fbclid=IwAR3DoIDe5qAXSPFprox-04GYM2GWhihwrptnqdl-4tnjpH2XwAIUwnkWeHw)
   
+  I discovered this project while doing my own research into avalanche forecasting techniques. As an avid backcountry skier, I am always trying to learn more about the processes that are involved in making these predictions.
   
+  What inspired me here was the idea of combining their love of snow (which I also have) with machine learning techqniques (which i also like) to create not only a unique and interesting project but also something that, given time and resources, could be a foundation for more accurate forecasting. This, in turn, could lead to more informed backcountry users and fewer fatalities. 
   
   ### Kurzgesagt: [Site](https://kurzgesagt.org/) and [Youtube](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
   
