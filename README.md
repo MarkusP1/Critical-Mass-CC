@@ -19,8 +19,6 @@
  I then used the data to calculate the "EcoScore" which was our way of displaying which method of transportation was the most sustainable and realistic. (ie, walking to Vancouver is most sustainable but not feasable!).
   This score was then dispalyed on the donut graphs which I thought allowed for easy visual comparison especially with the color indication.
   
-  ses readily available emissions and fuel consumption data from Natural Resources Canada to create accurate ratings based on vehicle type. For simplicity, we've proken down the vehicles into three main catagories: cars, SUVs and trucks
-  
   ### Project 3: [Bandwagon](https://github.com/MarkusP1/Bandwagon)
 
 
