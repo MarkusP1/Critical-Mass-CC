@@ -36,9 +36,15 @@ I've picked these three recent examples as they have all inspired me in differen
  ### [Brittany Chiang](https://github.com/bchiang7)
   Brittany Chiang's repo was shown to me by a professor while we were discussing project ideas. 
   
-  What inspired me was the design and experience of her spotify app and personal website. She was able to cleanly convey information in a visually appealing way that was simple and easy to follow.
-  ### ML Avalanche Prediction [Repository](https://github.com/SBeairsto/Avalanche_project) and [App](https://avalanche.shinyapps.io/seatosky/?fbclid=IwAR3DoIDe5qAXSPFprox-04GYM2GWhihwrptnqdl-4tnjpH2XwAIUwnkWeHw)
+  What inspired me was the design and experience of her spotify app and personal website. She was able to cleanly convey information in a visually appealing way that was simple and easy to follow. She was able to take advantage of the entire screen width without cluttering and used color schemes and contrast to highlight specific areas.
+ 
+ On top of the design aspect, the APIs she has used and the sheer number of high-quality projects has inspired me to develop more creative and unique personal projects myself.
+  ### ML Avalanche Forecasting [Repository](https://github.com/SBeairsto/Avalanche_project) and [App](https://avalanche.shinyapps.io/seatosky/?fbclid=IwAR3DoIDe5qAXSPFprox-04GYM2GWhihwrptnqdl-4tnjpH2XwAIUwnkWeHw)
+  
+  
   
   ### Kurzgesagt: [Site](https://kurzgesagt.org/) and [Youtube](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+  
+  
 
 ## Focus
