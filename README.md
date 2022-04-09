@@ -31,10 +31,12 @@
 
 
 ## Inspiration
-I've picked these three ____ as they have all inspired me in different ways
+I've picked these three recent examples as they have all inspired me in different ways.
 
  ### [Brittany Chiang](https://github.com/bchiang7)
-  text lorem ipu
+  Brittany Chiang's repo was shown to me by a professor while we were discussing project ideas. 
+  
+  What inspired me was the design and experience of her spotify app and personal website. She was able to cleanly convey information in a visually appealing way that was simple and easy to follow.
   ### ML Avalanche Prediction [Repository](https://github.com/SBeairsto/Avalanche_project) and [App](https://avalanche.shinyapps.io/seatosky/?fbclid=IwAR3DoIDe5qAXSPFprox-04GYM2GWhihwrptnqdl-4tnjpH2XwAIUwnkWeHw)
   
   ### Kurzgesagt: [Site](https://kurzgesagt.org/) and [Youtube](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
