@@ -43,10 +43,14 @@ I've picked these three recent examples as they have all inspired me in differen
   
   I discovered this project while doing my own research into avalanche forecasting techniques. As an avid backcountry skier, I am always trying to learn more about the processes that are involved in making these predictions.
   
-  What inspired me here was the idea of combining their love of snow (which I also have) with machine learning techqniques (which i also like) to create not only a unique and interesting project but also something that, given time and resources, could be a foundation for more accurate forecasting. This, in turn, could lead to more informed backcountry users and fewer fatalities. 
+  What inspired me here was the idea of combining their love of snow (which I also have) with machine learning techniques (which i also like) to create not only a unique and interesting project but also something that, given time and resources, could be a foundation for more accurate forecasting. This, in turn, could lead to more informed backcountry users and fewer fatalities. 
+  
+ Their use of a Ordinal Random Forest with high success has inpired me to apply ORF to some ongoing projects to hopefully yield better results. 
+  
   
   ### Kurzgesagt: [Site](https://kurzgesagt.org/) and [Youtube](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
   
+  From a technical standpoint, Kurzgesagt is inspiring 
   
 
 ## Focus
