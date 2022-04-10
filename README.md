@@ -56,6 +56,9 @@ I've picked these three recent examples as they have all inspired me in differen
   
 
 ## Focus
+If I was given the time and resources, I would focus on learning as much as I could about the entire design and client-iteraction process. I'm very interested in how a design is born and all the aspects of development that go into it. If I am able to 
+
+
 
 ## [Coding Challenge](https://codesandbox.io/s/2022-internship-exercise-menu-forked-umu94x)
 
