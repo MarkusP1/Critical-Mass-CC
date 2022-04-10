@@ -56,7 +56,7 @@ I've picked these three recent examples as they have all inspired me in differen
   
 
 ## Focus
-If I was given the time and resources, I would focus on learning as much as I could about the entire design and client-iteraction process. I'm very interested in how a design is born and all the aspects of development that go into it. If I am able to 
+If I was given the time and resources, I would focus on learning as much as I could about the entire design and client-iteraction process. I'm very interested in how a design is born and all the aspects of development that go into it. Building up my understanding of the tools/techniques that are involved would hopefully open up more opportunities for learning and growth as well as the ability to take on more responsibilty.
 
 
 
