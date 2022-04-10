@@ -50,7 +50,9 @@ I've picked these three recent examples as they have all inspired me in differen
   
   ### Kurzgesagt: [Site](https://kurzgesagt.org/) and [Youtube](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
   
-  From a technical standpoint, Kurzgesagt is inspiring 
+  From a technical standpoint, Kurzgesagt is inspiring in multiple ways. Firstly, the front-end design of the website is clean and the use of vibrant colours, contrast and subtle animation make it captivating for a user.
+  
+  The second reason is the digital design and visual art concepts that make the videos so recognizable. The style and animations of the designs are visually pleasing but also play a major role in the story being told. The use of bright colours and rounded, simple shapes keeps your attention and is one of the main reasons Kurzgesagt is so popular.
   
 
 ## Focus
